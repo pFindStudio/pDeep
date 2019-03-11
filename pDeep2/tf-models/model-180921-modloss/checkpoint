@@ -1,0 +1,2 @@
+model_checkpoint_path: "pretrain-180921-modloss-transfer-PhosSyn.ckpt"
+all_model_checkpoint_paths: "pretrain-180921-modloss-transfer-PhosSyn.ckpt"
