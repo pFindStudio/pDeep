@@ -25,7 +25,7 @@ Example of input format for prediction is shown in "peptide.txt".
 
 -e 0.3 (or --nce 0.3) means normalized collision energy is 30%;
 
--i Lumos (or --instrument Lumos) means the instrument, pDeep recently supports QE, Lumos, Velos, and Elite.
+-i Lumos (or --instrument Lumos) means the instrument is Lumos, pDeep recently supports QE, Lumos, Velos, and Elite.
 
 ## Train
 
