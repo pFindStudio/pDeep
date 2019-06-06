@@ -10,6 +10,7 @@ First, specify a model in predict.py:
 ```
 ...
 import model.lstm_tf as lstm
+# other models are also included in the './tf-models' folder.
 model_folder = './tf-models/model-180921-modloss/'
 model = 'pretrain-180921-modloss.ckpt'
 ...
