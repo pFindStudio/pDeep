@@ -2,7 +2,7 @@
 
 ## Python and requirements
 
-Make sure Python version is 3.6, and TensorFlow version is >= 1.8 (or 1.6) and < 2.0. Anaconda enviroment is recommended.
+Make sure Python version is >=3.5, and TensorFlow version is >= 1.6 and < 2.0. Anaconda enviroment is recommended.
 
 ## Predict
 
