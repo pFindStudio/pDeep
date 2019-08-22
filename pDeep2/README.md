@@ -43,3 +43,19 @@ Check transfer_train.py and run:
 ```
 $ python transfer_train.py
 ```
+
+## Cite us
+```
+Wen-Feng Zeng, Xie-Xuan Zhou, Wen-Jing Zhou, Hao Chi, Jian-feng Zhan, Si-Min He.
+Anal. Chem. 2019, 91, 15, 9724-9731.
+MS/MS Spectrum Prediction for Modified Peptides Using pDeep2 Trained by Transfer Learning.
+DOI: https://doi.org/10.1021/acs.analchem.9b01262
+```
+
+```
+Xie-Xuan Zhou, Wen-Feng Zeng, Hao Chi, Chun-Jie Luo, Chao Liu, Jian-Feng Zhan, Si-Min He, and Zhi-Fei Zhang.
+Anal. Chem. 2017, 89, 23, 12690-12697
+pDeep: Predicting MS/MS Spectra of Peptides with Deep Learning.
+DOI: https://doi.org/10.1021/acs.analchem.7b02566
+```
+
